@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.16)  26 MAY 2024 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.16)  26 MAY 2024 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -299,7 +299,7 @@ Package hyperref Info: Link coloring OFF on input line 12.
 
  [1
 
-{C:/Users/marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Git.aux
+{C:/Users/marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (Git.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -308,20 +308,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `Git.out' has not changed.
-(rerunfilecheck)             Checksum: E7A274899800729759FD1C06E21893B1;453.
+(rerunfilecheck)             Checksum: 58BDEA3C35ADE9205CF77CCE43676182;579.
  ) 
 Here is how much of TeX's memory you used:
- 10507 strings out of 474486
- 166115 string characters out of 5743755
+ 10510 strings out of 474486
+ 166141 string characters out of 5743755
  1931542 words of memory out of 5000000
- 32672 multiletter control sequences out of 15000+600000
+ 32673 multiletter control sequences out of 15000+600000
  564663 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,291b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Git.pdf (1 page, 84828 bytes).
+Output written on Git.pdf (2 pages, 86758 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
