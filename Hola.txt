@@ -1,2 +1,8 @@
 Estoy realizando por primera vez un repositorio en Visula
 y estoy aprendiendo Git
+
+Asimismo, se llega a actualizar el archivo.
+
+\documentclass{Article}
+
+\title{Hola Mundo}
