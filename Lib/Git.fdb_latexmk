@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1716761466.44283 "c:/Users/marti/Documents/Programación/GitClass/InitClass/Lib/Git.tex" "Git.pdf" "Git" 1716761467.06255 0
+["pdflatex"] 1716761722.69517 "c:/Users/marti/Documents/Programación/GitClass/InitClass/Lib/Git.tex" "Git.pdf" "Git" 1716761723.31584 0
   "C:/Users/marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1716759998 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/marti/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713327177 24225046 31a4e261562e3b175569fe0eb092f1bf ""
   "C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -78,10 +78,10 @@
   "C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Git.aux" 1716761466 889 ebb2f23e5c155ab68d2e8985f106a9f8 "pdflatex"
-  "Git.out" 1716761466 579 58bdea3c35ade9205cf77cce43676182 "pdflatex"
-  "Git.tex" 1716761465 843 4bb2df2c08c84245b42b01c464787a6e ""
-  "c:/Users/marti/Documents/Programación/GitClass/InitClass/Lib/Git.tex" 1716761465 843 4bb2df2c08c84245b42b01c464787a6e ""
+  "Git.aux" 1716761723 890 2506b5cd31fe67afa3e0a154f6ff3101 "pdflatex"
+  "Git.out" 1716761723 584 7d873e1ef3a59ab7c6a5975f9dc0940c "pdflatex"
+  "Git.tex" 1716761721 844 bb5d880ecf3d4728feb53e7a1f3abc42 ""
+  "c:/Users/marti/Documents/Programación/GitClass/InitClass/Lib/Git.tex" 1716761721 844 bb5d880ecf3d4728feb53e7a1f3abc42 ""
   (generated)
   "Git.aux"
   "Git.log"

@@ -1,0 +1,2 @@
+Estoy realizando por primera vez un repositorio en Visula
+y estoy aprendiendo Git
