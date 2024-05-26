@@ -6,3 +6,10 @@ Asimismo, se llega a actualizar el archivo.
 \documentclass{Article}
 
 \title{Hola Mundo}
+\autor{Martin Nicasio}
+
+\begin{document}
+
+\section{Primeros codigos}
+
+\end{document}
